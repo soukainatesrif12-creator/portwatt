@@ -38,3 +38,6 @@ node_modules
 dist
 *:Zone.Identifier
 .env
+
+# Local Netlify folder
+.netlify
